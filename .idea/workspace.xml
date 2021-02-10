@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d4146e01-dd48-4e46-b890-cc7952c47c10" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mentorship-season1.html" beforeDir="false" afterPath="$PROJECT_DIR$/mentorship-season1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +35,7 @@
       <option name="presentableId" value="Default" />
       <updated>1612892950821</updated>
       <workItem from="1612892952217" duration="50000" />
-      <workItem from="1612975648035" duration="3870000" />
+      <workItem from="1612975648035" duration="3932000" />
     </task>
     <servers />
   </component>
